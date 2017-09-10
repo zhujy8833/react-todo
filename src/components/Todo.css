@@ -1,0 +1,7 @@
+.todo-item {
+
+}
+
+.todo-item.is-done p{
+  text-decoration: line-through;
+}
